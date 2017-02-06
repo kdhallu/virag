@@ -14,7 +14,7 @@ CC 3.0 All of the site templates we create for WebThemez are licensed under the 
 
 
 Credits :
---------- 
+--------- dfasdfdasfsda
 
 => Design & developed: "WebThemez"  http://webthemez.com 
 => Bootstrap : http://getbootstrap.com/
