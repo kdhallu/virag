@@ -2190,6 +2190,7 @@ footer ul li:last-child{
     padding: 10px 0;
     width: 100%;
     margin-top: -22px;
+    background: #fff none repeat scroll 0 0;
   }
 
   .main-menu .navbar-nav li {
@@ -2784,6 +2785,9 @@ a.plussign{
 	border-bottom: 2px solid #654016;
 	line-height: 0.1em;
 	font-weight: bold;
+	margin-left: 87px;
+
+
 }
 .productbtn:hover{
 	color: #c2641c;
